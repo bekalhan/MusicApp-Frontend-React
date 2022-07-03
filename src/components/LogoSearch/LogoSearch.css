@@ -1,0 +1,37 @@
+.Search{
+    display: flex;
+    background-color: var(--inputColor);
+    border-radius: 10px;
+    padding:5px;
+    margin-top: 130px;
+    margin-left: 80px;
+}
+
+input{
+    display: flex;
+    width: 400px;
+    height: 30px;
+    background-color: black;
+    border-radius: 15px;
+    padding: 5px;
+    color:white;
+    font-size: 15px;
+    border: 2px solid black;
+    padding: 4px;
+}
+
+.t-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(106.23deg,#f99827,#f95f35 100%);
+    border-radius: 5px;
+    padding: 4px;
+    color:white;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.t-icon:hover{
+    cursor: pointer;
+}

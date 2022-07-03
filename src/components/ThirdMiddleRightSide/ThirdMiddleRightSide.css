@@ -1,0 +1,10 @@
+.ThirdMiddleRightSide{
+    display: flex;
+    background: #081730;
+    gap:0.75rem;
+
+}
+
+.box{
+    background-color: red;
+}

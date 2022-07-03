@@ -1,0 +1,38 @@
+.Header{
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: 15rem auto 30rem;
+    /* grid-template-columns: 15rem auto 18rem; */
+    background: #081730;
+}
+
+.img-header{
+    margin-left:80px;
+    margin-top: 20px;
+    width: 42px;
+    height: 42px;
+}
+
+.f-button{
+    margin-top: 5px;
+    font-size:30px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px;
+    padding: 5px;
+
+}
+
+.b-sign{
+    font-size: 20px;
+}
+
+.b-log{
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+
+
+
+

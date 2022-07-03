@@ -1,0 +1,18 @@
+
+.RightPhotos{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bkg{
+    width: 100%;
+    height: 100vh;
+}
+
+.phone{
+    position: absolute;
+    width: 15rem;
+}

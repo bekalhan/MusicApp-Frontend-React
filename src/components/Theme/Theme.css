@@ -1,0 +1,4 @@
+.Theme{
+    display: flex;
+    flex-direction: column;
+}

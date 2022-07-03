@@ -1,0 +1,13 @@
+ul{
+    margin-top:26px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+ul li{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: white;
+}

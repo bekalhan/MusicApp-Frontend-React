@@ -1,0 +1,17 @@
+.ThirdMiddleLeftSidePhotos{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.t-bkg{
+    width: 100%;
+    height: 100vh;
+}
+
+.t-phone{
+    position: absolute;
+    width: 15rem;
+}

@@ -1,0 +1,56 @@
+.SecondMiddleSide{
+    background: #020917;
+    height: 100vh;
+}
+
+.line{
+    margin-top: 60px;
+    width: 80px;
+}
+
+.amazingApp{
+    color:white;
+}
+
+.experience{
+    color : white;
+}
+
+.card{
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    margin-top: 80px;
+}
+
+.mic{
+    width: 120px;
+    height: 120px;
+}
+
+.m-logo{
+    width: 120px;
+    height: 120px;
+}
+
+.mic2{
+    width: 120px;
+    height: 120px;
+}
+
+.desc{
+    color:white;
+    font-size: 15px;
+}
+
+.d-text{
+    color:white;
+    margin-left: 50px;
+    font-size: 12px;
+    width: 80%;
+}
+
+.b-learn{
+    border-radius: 5px;
+    padding: 4px;
+    
+}
